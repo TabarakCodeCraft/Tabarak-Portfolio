@@ -78,17 +78,6 @@ Features include:
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={img1}
-              isBlog={false}
-              title="CV Template"
-              description="A personal CV template built using HTML and CSS for fun. You can use the GitHub repository to add your professional information and deploy it on any live server. The design is minimal and easy to customize."
-              ghLink="https://github.com/TabarakCodeCraft/cv-website"
-              demoLink="https://tabarakali-cv.netlify.app/"
-            />
-          </Col>
-
-          <Col md={4} className="project-card">
-            <ProjectCard
               imgPath={suicide}
               isBlog={false}
               title="e-Commerce Flowers"
