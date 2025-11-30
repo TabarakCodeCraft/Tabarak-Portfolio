@@ -8,7 +8,9 @@ import img2 from "../../Assets/drlap.png";
 import suicide from "../../Assets/flowere-commerc.png";
 import shopApp from "../../Assets/shopApp.png";
 import lastProj from "../../Assets/carSite.png";
-import talabatey from "../../Assets/image.png"
+import talabatey from "../../Assets/image.png";
+import carRental from "../../Assets/carRental.png";
+
 function Projects() {
   return (
     <Container fluid className="project-section">
@@ -44,6 +46,24 @@ function Projects() {
             />
           </Col>
 
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={carRental}
+              isBlog={false}
+              title="Car Rental"
+              description="Welcome to Car Rental, a modern full-stack web app for renting and managing cars with ease.
+
+💎 **Features:**
+- 🚘 Browse and view available cars  
+- 🗓️ Create and manage bookings easily  
+- ⚙️ Admins can add, edit, or delete cars  
+- 🌐 Multi-language support (English & Arabic)  
+- 🔒 Secure authentication via Clerk  "
+              ghLink="https://github.com/TabarakCodeCraft/Car-Rental"
+              demoLink="https://car-rental-frontend-by-tabarak2025.vercel.app/"
+            />
+          </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
