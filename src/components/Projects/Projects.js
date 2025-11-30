@@ -54,12 +54,12 @@ function Projects() {
               title="Car Rental"
               description="Welcome to Car Rental, a modern full-stack web app for renting and managing cars with ease.
 
-💎 **Features:**
-- 🚘 Browse and view available cars  
-- 🗓️ Create and manage bookings easily  
-- ⚙️ Admins can add, edit, or delete cars  
-- 🌐 Multi-language support (English & Arabic)  
-- 🔒 Secure authentication via Clerk  "
+Features include:
+- Browse and view available cars  
+- Create and manage bookings easily  
+- Admins can add, edit, or delete cars  
+- Multi-language support (English & Arabic)  
+- Secure authentication via Clerk  "
               ghLink="https://github.com/TabarakCodeCraft/Car-Rental"
               demoLink="https://car-rental-frontend-by-tabarak2025.vercel.app/"
             />
