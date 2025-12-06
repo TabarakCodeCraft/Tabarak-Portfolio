@@ -25,7 +25,7 @@ function Footer() {
               <a
                 href="https://github.com/TabarakCodeCraft"
                 style={{ color: "white" }}
-                target="_blank" 
+                target="_blank"
                 rel="noopener noreferrer"
               >
                 <AiFillGithub />
@@ -33,9 +33,9 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                  href="https://www.linkedin.com/in/tabarak-ali-star/"
-                  style={{ color: "white" }}
-                target="_blank" 
+                href="https://www.linkedin.com/in/tabarak-ali-star/"
+                style={{ color: "white" }}
+                target="_blank"
                 rel="noopener noreferrer"
               >
                 <FaLinkedinIn />
@@ -45,11 +45,12 @@ function Footer() {
               <a
                 href="https://www.instagram.com/tabarak.ali.iq"
                 style={{ color: "white" }}
-                target="_blank" 
+                target="_blank"
                 rel="noopener noreferrer"
               >
                 <AiFillInstagram />
               </a>
+              {/* //test push !! */}
             </li>
           </ul>
         </Col>
