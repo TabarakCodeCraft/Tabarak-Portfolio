@@ -5,6 +5,7 @@ import Particle from "../Particle";
 import editor from "../../Assets/carlover.png";
 import img1 from "../../Assets/mycv.png";
 import img2 from "../../Assets/drlap.png";
+import img3 from "../../Assets/samiTech.png";
 import suicide from "../../Assets/flowere-commerc.png";
 import shopApp from "../../Assets/shopApp.png";
 import lastProj from "../../Assets/carSite.png";
@@ -37,7 +38,7 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={img2}
+              imgPath={img3}
               isBlog={false}
               title="Sami Technology"
               description="A modern and responsive web platform showcasing my projects and skills. Built with React.js and deployed on Vercel, this site demonstrates clean design, user-friendly interface, and professional deployment practices. You can explore the live site to see my work in action."
