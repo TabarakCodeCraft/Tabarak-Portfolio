@@ -35,6 +35,15 @@ function Projects() {
             />
           </Col>
 
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={img2}
+              isBlog={false}
+              title="Sami Technology"
+              description="A modern and responsive web platform showcasing my projects and skills. Built with React.js and deployed on Vercel, this site demonstrates clean design, user-friendly interface, and professional deployment practices. You can explore the live site to see my work in action."
+              demoLink="https://sami-technology.vercel.app/"
+            />
+          </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
@@ -45,7 +54,6 @@ function Projects() {
               demoLink="https://www.linkedin.com/posts/tabarak-ali-star_im-so-happy-about-my-latest-achievement-activity-7357476830506827777-OMS0?utm_source=share&utm_medium=member_desktop&rcm=ACoAAErlMzwB9H1ANRGpX4abAEm-Ya0o8BQxLGc"
             />
           </Col>
-
 
           <Col md={4} className="project-card">
             <ProjectCard

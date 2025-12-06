@@ -13,7 +13,6 @@ import {
   AiOutlineFundProjectionScreen,
   AiOutlineUser,
 } from "react-icons/ai";
-//testing push
 import { CgFileDocument } from "react-icons/cg";
 
 function NavBar() {
