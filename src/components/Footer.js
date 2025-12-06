@@ -50,7 +50,6 @@ function Footer() {
               >
                 <AiFillInstagram />
               </a>
-              {/* //test push !! */}
             </li>
           </ul>
         </Col>

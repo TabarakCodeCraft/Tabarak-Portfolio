@@ -7,6 +7,7 @@ import Type from "./Type";
 
 function Home() {
   return (
+    // test push
     <section>
       <Container fluid className="home-section" id="home">
         <Particle />
