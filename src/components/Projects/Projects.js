@@ -40,7 +40,7 @@ function Projects() {
             <ProjectCard
               imgPath={img3}
               isBlog={false}
-              title="Sami Technology"
+              title="SA 2030 Technology"
               description="A modern and responsive web platform showcasing my projects and skills. Built with React.js and deployed on Vercel, this site demonstrates clean design, user-friendly interface, and professional deployment practices. You can explore the live site to see my work in action."
               demoLink="https://sami-technology.vercel.app/"
             />
