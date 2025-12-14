@@ -7,7 +7,7 @@ import img1 from "../../Assets/mycv.png";
 import img2 from "../../Assets/drlap.png";
 import img3 from "../../Assets/samiTech.png";
 import suicide from "../../Assets/flowere-commerc.png";
-import shopApp from "../../Assets/shopApp.png";
+import macbook from "../../Assets/mac-os.png";
 import lastProj from "../../Assets/carSite.png";
 import talabatey from "../../Assets/image.png";
 import carRental from "../../Assets/carRental.png";
@@ -98,12 +98,12 @@ Features include:
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={shopApp}
+              imgPath={macbook}
               isBlog={false}
-              title="Shop Mobile App"
-              description="A mobile shopping application built with React.js, designed specifically for mobile users. The app features a user-friendly interface, fast navigation, and optimized performance for a seamless shopping experience."
-              ghLink="https://github.com/TabarakCodeCraft/shoppUi"
-              demoLink="https://strong-task-by-toto.netlify.app/"
+              title="Portfolio Macbook"
+              description="This is a React-based web application that replicates the macOS desktop interface, designed to create unique and memorable portfolios. Instead of traditional static websites, users can showcase their projects through an interactive desktop environment featuring windows, dock, and familiar macOS elements"
+              ghLink="https://github.com/TabarakCodeCraft/Portfolio-Mac-OS"
+              demoLink="https://mac-os-by-tabarak.netlify.app/"
             />
           </Col>
 
