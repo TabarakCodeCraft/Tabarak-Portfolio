@@ -25,10 +25,10 @@ function Home2() {
               delivering real-world production systems.
               <br />
               <br />
-              I specialize in building
+              I specialize in building {" "}
               <i>
                 <b className="purple">
-                  large-scale dashboards, interactive user interfaces,
+                  large-scale dashboards, interactive user interfaces,{" "}
                 </b>
               </i>
               and business-driven applications based on real client requirements.
@@ -38,7 +38,7 @@ function Home2() {
               <i>
                 <b className="purple"> C++, JavaScript, and TypeScript </b>
               </i>
-              and I mainly focus on
+              and I mainly focus on{" "}
               <i>
                 <b className="purple">
                   Full-Stack Web Development, Backend Engineering, and Database Design.
@@ -53,10 +53,10 @@ function Home2() {
               for backend systems.
               <br />
               <br />
-              I also work with
+              I also work with{" "}
               <i>
                 <b className="purple">
-                  modern JavaScript libraries, including specialized 3D visualization libraries,
+                  modern JavaScript libraries, including specialized 3D visualization libraries,{" "}
                 </b>
               </i>
               to build immersive and highly interactive user experiences.
@@ -64,10 +64,10 @@ function Home2() {
               <br />
               In addition to full-time roles, I work as a
               <b className="purple"> Freelancer </b>
-              where I build
+              where I build{" "}
               <i>
                 <b className="purple">
-                  medium to large-scale projects from scratch
+                  medium to large-scale projects from scratch{" "}
                 </b>
               </i>
               using
