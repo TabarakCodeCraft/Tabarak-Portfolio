@@ -19,38 +19,63 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think…
-              <br />
-              <br />I am fluent in classics like
-              <i>
-                <b className="purple"> C++, Javascript and Typescript. </b>
-              </i>
+              I am a passionate Software Developer with over
+              <b className="purple"> 3+ years of professional experience </b>
+              in the Iraqi job market, where I have worked with multiple local companies
+              delivering real-world production systems.
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
-              <i>
-                <b className="purple">Web Technologies and Products </b> and
-                also in areas related to{" "}
-                <b className="purple">
-                  Backend and DB as full stack engineering.                </b>
-              </i>
-              <br />
-              <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
+              I specialize in building
               <i>
                 <b className="purple">
-                  {" "}
-                  Modern Javascript Library and Frameworks
+                  large-scale dashboards, interactive user interfaces,
                 </b>
               </i>
-              &nbsp; like
+              and business-driven applications based on real client requirements.
+              <br />
+              <br />
+              I am fluent in core technologies such as
               <i>
-                <b className="purple"> React.js, Next.js and Express.js, Nest.js </b>
+                <b className="purple"> C++, JavaScript, and TypeScript </b>
               </i>
+              and I mainly focus on
+              <i>
+                <b className="purple">
+                  Full-Stack Web Development, Backend Engineering, and Database Design.
+                </b>
+              </i>
+              <br />
+              <br />
+              I have strong hands-on experience using
+              <b className="purple"> React.js, Next.js </b>
+              for frontend development, and
+              <b className="purple"> Node.js, Express.js, and Nest.js </b>
+              for backend systems.
+              <br />
+              <br />
+              I also work with
+              <i>
+                <b className="purple">
+                  modern JavaScript libraries, including specialized 3D visualization libraries,
+                </b>
+              </i>
+              to build immersive and highly interactive user experiences.
+              <br />
+              <br />
+              In addition to full-time roles, I work as a
+              <b className="purple"> Freelancer </b>
+              where I build
+              <i>
+                <b className="purple">
+                  medium to large-scale projects from scratch
+                </b>
+              </i>
+              using
+              <b className="purple"> MERN Stack </b>
+              or custom Full-Stack architectures based on project needs.
             </p>
           </Col>
+
           <Col md={4} className="myAvtar">
             <Tilt>
               <img src={myImg} className="img-fluid" alt="avatar" />
