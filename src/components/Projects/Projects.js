@@ -11,6 +11,7 @@ import macbook from "../../Assets/mac-os.png";
 import lastProj from "../../Assets/carSite.png";
 import talabatey from "../../Assets/image.png";
 import carRental from "../../Assets/carRental.png";
+import gsapProject from "../../Assets/gsapProject.png";
 
 function Projects() {
   return (
@@ -43,6 +44,17 @@ function Projects() {
               title="SA 2030 Technology"
               description="A modern and responsive web platform showcasing my projects and skills. Built with React.js and deployed on Vercel, this site demonstrates clean design, user-friendly interface, and professional deployment practices. You can explore the live site to see my work in action."
               demoLink="https://sami-technology.vercel.app/"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={gsapProject}
+              isBlog={false}
+              title="AWWWARDS Site"
+              description="This project demonstrates how to leverage GSAP's powerful animation capabilities to craft fluid transitions, captivating scroll effects, and dynamic UI interactions, combining it with React and Tailwind CSS for a truly immersive and visually stunning website."
+              ghLink="https://github.com/TabarakCodeCraft/GSAP-Awwwards-Website"
+              demoLink="https://energydrink-website-with-gsap.netlify.app/"
             />
           </Col>
 
