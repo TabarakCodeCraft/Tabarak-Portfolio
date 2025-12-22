@@ -3,7 +3,6 @@ import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import editor from "../../Assets/carlover.png";
-import img1 from "../../Assets/mycv.png";
 import img2 from "../../Assets/drlap.png";
 import img3 from "../../Assets/samiTech.png";
 import suicide from "../../Assets/flowere-commerc.png";
@@ -12,7 +11,7 @@ import lastProj from "../../Assets/carSite.png";
 import talabatey from "../../Assets/image.png";
 import carRental from "../../Assets/carRental.png";
 import gsapProject from "../../Assets/gsapProject.png";
-
+import Apple3d from "../../Assets/Apple3d.png"
 function Projects() {
   return (
     <Container fluid className="project-section">
@@ -127,6 +126,17 @@ Features include:
               description="A car rental platform built using React.js, designed to assist patients in finding rental cars easily. The platform offers a simple interface with a smooth booking process and responsive layout for accessibility across devices."
               ghLink="https://github.com/TabarakCodeCraft/cars-website-in-react"
               demoLink="https://toto-cars-lover.netlify.app/"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={Apple3d}
+              isBlog={false}
+              title="Apple-style 3D"
+              description="Apple-style 3D website built with React, Three.js, GSAP, and TailwindCSS! Showcase products in immersive 3D scenes, scroll-animated models, and pinned sections. Featuring responsive design, smooth timeline animations, and visually striking image transitions—perfect for developers creating interactive, modern web experiences."
+              ghLink="https://github.com/TabarakCodeCraft/Apple-Website.git"
+              demoLink="https://macbook-3d-by-tabarak.netlify.app/"
             />
           </Col>
 
