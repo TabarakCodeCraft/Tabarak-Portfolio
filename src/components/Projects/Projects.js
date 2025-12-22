@@ -38,11 +38,12 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={img3}
+              imgPath={Apple3d}
               isBlog={false}
-              title="SA 2030 Technology"
-              description="A modern and responsive web platform showcasing my projects and skills. Built with React.js and deployed on Vercel, this site demonstrates clean design, user-friendly interface, and professional deployment practices. You can explore the live site to see my work in action."
-              demoLink="https://sami-technology.vercel.app/"
+              title="Macbook Style"
+              description="Apple-style 3D website built with React, Three.js, GSAP, and TailwindCSS! Showcase products in immersive 3D scenes, scroll-animated models, and pinned sections. Featuring responsive design, smooth timeline animations, and visually striking image transitions—perfect for developers creating interactive, modern web experiences."
+              ghLink="https://github.com/TabarakCodeCraft/Apple-Website.git"
+              demoLink="https://macbook-3d-by-tabarak.netlify.app/"
             />
           </Col>
 
@@ -72,14 +73,7 @@ function Projects() {
               imgPath={carRental}
               isBlog={false}
               title="Car Rental"
-              description="Welcome to Car Rental, a modern full-stack web app for renting and managing cars with ease.
-
-Features include:
-- Browse and view available cars  
-- Create and manage bookings easily  
-- Admins can add, edit, or delete cars  
-- Multi-language support (English & Arabic)  
-- Secure authentication via Clerk  "
+              description="Welcome to Car Rental, a modern full-stack web app for renting and managing cars with ease. Browse and view available cars, Create and manage bookings easily, Admins can add, edit, or delete cars, Multi-language support (English & Arabic), Secure authentication via Clerk"
               ghLink="https://github.com/TabarakCodeCraft/Car-Rental"
               demoLink="https://car-rental-frontend-by-tabarak2025.vercel.app/"
             />
@@ -129,16 +123,7 @@ Features include:
             />
           </Col>
 
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={Apple3d}
-              isBlog={false}
-              title="Apple-style 3D"
-              description="Apple-style 3D website built with React, Three.js, GSAP, and TailwindCSS! Showcase products in immersive 3D scenes, scroll-animated models, and pinned sections. Featuring responsive design, smooth timeline animations, and visually striking image transitions—perfect for developers creating interactive, modern web experiences."
-              ghLink="https://github.com/TabarakCodeCraft/Apple-Website.git"
-              demoLink="https://macbook-3d-by-tabarak.netlify.app/"
-            />
-          </Col>
+
 
         </Row>
       </Container>
