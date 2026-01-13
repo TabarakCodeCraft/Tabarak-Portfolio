@@ -13,7 +13,7 @@ function AboutCard() {
             <br />
             I am currently employed as a software developer at Al-Jazeera Telecom.
             <br />
-            I completed my Bachelor's degree (IMSc) in Software Engineering from the UOB.
+            I completed my Bachelor's degree in Software Engineering from the UOB.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
